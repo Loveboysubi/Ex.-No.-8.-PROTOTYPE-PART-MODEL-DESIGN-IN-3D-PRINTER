@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![1](https://github.com/Yuvaraj878/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118622554/09996c8c-2cb4-49d1-9b91-fc3acd882031)
-
+![image](https://github.com/22002102/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119091638/8d05c677-8698-4006-b11a-d79dff0041e6)
 ### Name: Subishesh P 
 ### Register Number: 23003621
 
